@@ -23,6 +23,3 @@ int main () {
         printf("Invalid \n");
     }
 }
-
-// 8m 2002y 
-// 
